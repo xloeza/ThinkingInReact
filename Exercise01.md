@@ -5,5 +5,5 @@ npm is a package manager for the JavaScript programming language. It is the defa
 
 *   01 Initialize your npm project
 
-    Execute the following command
-    "npm init"
+    Execute the following command: 
+    `npm init`
