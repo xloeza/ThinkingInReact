@@ -6,7 +6,7 @@ with the added benefit of compiling with Babel presets and plugins before runnin
 
 Execute the following command
 ```
-npm i @babel/core babel-loader @babel/preset-env @babel/preset-react --save
+npm i @babel/core babel-loader @babel/preset-env @babel/preset-react --save-dev
 ```
 
 Configure your babel environment. Theere are several ways to configure babel, 
