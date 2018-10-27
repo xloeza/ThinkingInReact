@@ -27,6 +27,6 @@ JSX is optional and not required to use React. Try the Babel REPL to see the raw
 
 Execute the following command
 ```
-npm i react react-dom --save
-npm i prop-types --save
+npm i react react-dom --save-dev
+npm i prop-types --save-dev
 ```
