@@ -11,8 +11,8 @@ Lets install webpack with the following commands:
 
 ```
 
-npm i webpack --save
-npm i webpack-cli --save
+npm i webpack --save-dev
+npm i webpack-cli --save-dev
 
 ```
 
