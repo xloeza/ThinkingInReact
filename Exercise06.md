@@ -2,7 +2,7 @@
 
 At this point we’re ready to define a minimal webpack configuration.
 
-Create a file named webpack.config.js add the following content to 
+Create a file named `webpack.config.js` add the following content to 
 the file
 ```
 module.exports = {
