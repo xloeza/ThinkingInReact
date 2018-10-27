@@ -7,7 +7,7 @@ touch src/js/components/container/SearchBar.js
 Add the following content
 
 ```
-mport React, { Component } from "react";
+import React, { Component } from "react";
 import ReactDOM from "react-dom";
 class FormContainer extends Component {
   constructor() {
