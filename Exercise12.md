@@ -16,7 +16,7 @@ Check the configuration of your package.json
 ```
 "scripts": {
   "start": "webpack-dev-server --open --mode development",
-  "build": "webpack"
+  "build": "webpack --mode production"
 }
 ```
 Execute the following command
