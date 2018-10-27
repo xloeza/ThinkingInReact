@@ -28,3 +28,9 @@ Add the following content
 </body>
 </html>
 ```
+
+Check the package.json file
+```
+"build": "webpack --mode production",
+    "start": "webpack-dev-server --open --mode development",
+```
