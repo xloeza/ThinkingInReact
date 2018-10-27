@@ -16,3 +16,10 @@ npm i webpack-cli --save
 
 ```
 
+Next up add the webpackcommand inside package.json:
+```
+"scripts": {
+  "build": "webpack",
+  "start": "webpack-dev-server --open --mode development",
+}
+```
