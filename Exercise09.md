@@ -16,3 +16,7 @@ With this in place we’re ready to create our bundle by running:
 ```
 npm run build
 ```
+
+The bundle will be placed into
+
+./dist/main.js
