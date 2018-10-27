@@ -1,4 +1,4 @@
-# Create your project structure
+# 08 Create your project structure
 Lets create a minimal directory structure for organizing the components:
 
 Execute the following command or create it using visual studio:
