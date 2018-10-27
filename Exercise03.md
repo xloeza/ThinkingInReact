@@ -1,0 +1,19 @@
+# Setup you vscode environment configuration file
+Create the file .editorconfig
+
+Add the following code:
+
+```
+root = true
+# General settings for whole project
+[*]
+indent_style = space
+end_of_line = lf
+indent_size = 2
+charset = utf-8
+trim_trailing_whitespace = true
+# Format specific overrides
+[*.md]
+max_line_length = 0
+trim_trailing_whitespace = false
+```
